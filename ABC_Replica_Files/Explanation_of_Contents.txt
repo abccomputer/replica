@@ -1,0 +1,9 @@
+Explanation of what's in this folder:
+
+When I received a copy of all the electronic and mechanical drawings of the replica of the ABC computer on December 12, 2012 from Terry Herrman at Ames Lab. The mechanical drawings were digital autocad files in DWG format. The electronic drawings were in OrCad format, but the files got corrupted and were discarded, but they had as paper copies, which I had scanned on 12/16/2013 by ISU Printing Services.
+Inside the folder "ABC_Mechanical_Drawings" are the original drawings, and some derivative DXF and PDF files for viewing, produced Steven Ourada, a friend of mine. Any derivative files may not be exactly like the original DWG files, so to produce anything accurrately it is important that the original DWG files are used. As of 12/16/2013, DWG files can be used with a free program called "DraftSight".
+Inside the folder "ABC_Electronics_Drawings" are two main folders. I received a file folder from Terry that had several files within them, labeled by the file number listed on the documents within them. There were several documents that were in the folder and not in files. So there are two folders, "Inside_Files", and "Outside_Files". There are two images of the file folder, and one has the contents that are outside the files stacked on top.
+Lastly, there is an "Other" folder that has images of the tour I did of everything else that is known to be in possession of Ames Lab. I am unsure exactly what everything is, whether there are original parts or parts and equipment from the replica and exhibit display. Additionally, I did find in a box some blueprints that may have been printed at the time Atanasoff made the original, which were copied at ISU Printing Services ("Additional_blueprints").
+
+Nitin Gadia
+12/16/2013
