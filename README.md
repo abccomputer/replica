@@ -11,7 +11,7 @@ The Atanasoff-Berry Computer (ABC) was the first electronic digital computer. No
 So far there is only one replica of the first electronic computer. It was built in 1997 by a team at Iowa State, where it was first invented, and has been on loan to the Computer History Museum since May 2012. Here for the first time in August 2016, the plans of the computer are available for anyone to download. The hope is that people can use the resources here to discuss and gain an understanding of an important part of computer history, and for people to collaborate on creating new replicas and other projects. Anyone may collaborate in editing and adding to these resources.
 
 ##The only existing replica:
-![alt text](https://raw.githubusercontent.com/abccomputer/replica/master/abc_only_replica.jpg "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/abccomputer/replica/master/Images/abc_only_replica.jpg "Logo Title Text 1")
 
 #Possible Next Steps:
 1. Digitize electronic drawings.
@@ -19,7 +19,7 @@ So far there is only one replica of the first electronic computer. It was built 
 3.  Start creating replicas. Ideas include miniature replicas and full scale replicas.
 
 ####The beginning of a miniature replica, 1/3x, a frame with 1/2 inch angle iron:
-![alt text](https://raw.githubusercontent.com/abccomputer/replica/master/third_size_angle_iron.jpg "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/abccomputer/replica/master/Images/third_size_angle_iron.jpg "Logo Title Text 1")
 
 #Goals and Progress:
 This is for others to set and document.
