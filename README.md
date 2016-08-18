@@ -1,6 +1,7 @@
 ####This is where you can learn about the ABC Computer and share files.
 * **Main page**: https://abccomputer.github.io/replica/
 * **Discussions**: https://groups.google.com/forum/#!forum/abccomputerdiscussions
+* **Files**: https://github.com/abccomputer/replica?files=1
 * *Learn more about the ABC Computer: http://jva.cs.iastate.edu/index.php*
 
 <!--
